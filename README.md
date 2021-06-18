@@ -1,3 +1,4 @@
+# Nodolla is a Front-End E-commerce application created using JavaScript, React.JS, Node.JS, Express.JS, HTML/CSS, deployed and hosted on AWS. 
 # Nodolla Setup Instructions
 1. Create a config.js file in the root repo directory with the following format:
 
